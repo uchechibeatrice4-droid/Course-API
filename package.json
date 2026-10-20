@@ -1,0 +1,16 @@
+{
+  "name": "course-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run start",
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Uchechi Peter",
+  "license": "ISC",
+  "description": "Course API",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
